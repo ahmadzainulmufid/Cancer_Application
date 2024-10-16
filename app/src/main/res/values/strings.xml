@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+
+    //images
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="empty_image_uri">No Image Selected</string>
+    <string name="classification_failed">Classification Failed</string>
+    <string name="image_load_failed">Image Load Failed</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    //navigation
+    <string name="title_home">Home</string>
+    <string name="title_prediction">Prediction</string>
+    <string name="title_history">History</string>
+
+    //information cancer
+    <string name="gambar">Gambar</string>
+
+    //button
+    <string name="button_save">Save History</string>
+    <string name="prediction_result">Prediction Result</string>
+    <string name="confidence_90">Confidence: 90%</string>
+    <string name="date_01_01_2024">Date: 01-01-2024</string>
+    <string name="Welcome_Asclepius">Welcome in Asclepius</string>
+    <string name="News_Article">News Article</string>
+    <string name="History_Cancer">History Cancer</string>
+</resources>
